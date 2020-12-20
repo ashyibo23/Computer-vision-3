@@ -10,7 +10,7 @@ There are 12 training images containing various pieces of LEGO. Your code needs 
 There are several methods has been implemented for this task to accomplish using machine learning algorithms bag of words/features, KNN and classical computer vision aproaches to achieve 70% to 80% accuracy rate and less than 0.50 MSE. 
 
 
-Feel free to steal this source code, just add a link back to my repositories. 
+Feel free to steal this source code, just add a link back to this repository. 
 
 Contributors:
 
