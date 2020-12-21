@@ -3,7 +3,7 @@ High Level computer vision
 
 Task caveat : Neural Network not permitted for this task.
 
-Design and implement of computer vision systems that can identify and count specific types of object from the image.
+Design and implementation of computer vision systems that can identify and count specific types of object from the image.
 
 There are 12 training images containing various pieces of LEGO. Your code needs to provide a count of the number of Blue 2 by 4 bricks (objectA) and the number of Red 2 by 2 bricks (objectB) in such an image. Close-up images of these two types of LEGO brick plus training images are provided with this repositories.
 
