@@ -1,4 +1,4 @@
-# Computer-Vision-2
+# Computer-Vision-3
 High Level computer vision
 
 Task caveat : Neural Network not permitted for this task.
