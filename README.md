@@ -1,5 +1,5 @@
 # Computer-Vision-3
-High Level computer vision
+High Level computer vision/Object Detection
 
 Task caveat : Neural Network not permitted for this task.
 
