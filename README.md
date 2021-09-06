@@ -12,7 +12,4 @@ There are several methods has been implemented for this task to accomplish by us
 
 Feel free to steal this source code, just add a link back to this repository. 
 
-Contributors:
 
-Special thanks to Ryusei Sashida.
-https://github.com/sashidaryu
